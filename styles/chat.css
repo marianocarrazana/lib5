@@ -1,0 +1,20 @@
+body{overflow:hidden;}
+header#bigContainer
+{
+    width:100%;
+    left:0;
+}
+.chat
+{
+    top:0;
+    height:100%;
+}
+.chat .messages
+{
+    height:90%;
+    top:0
+}
+.chat textarea
+{
+    height:10%;
+}
